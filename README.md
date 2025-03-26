@@ -62,7 +62,7 @@ graph TB
 - **🛡️ Webshell监测**：双重验证0day Webshell
 - **📦 PCAP分析**：协议还原与文件提取
 
-![image-20250326135200306](D:\Users\g3m\Desktop\assets\image-20250326135200306.png)
+![image-20250326135200306](https://github.com/wjz-sec/Kurust/blob/main/assets/image-20250326135200306.png)
 
 ### 3. 📜 智能日志系统
 - 日志维度：
@@ -83,7 +83,7 @@ graph TB
 
 ​	使用api时，在api_type="deepseek"即可，如果使用本地ollama模型则改为 api_type="ollama"即可
 
-![image-20250326135757845](https://github.com/wjz-sec/Kurust/blob/main/assets/image-20250326135200306.png)
+![image-20250326135757845](https://github.com/wjz-sec/Kurust/blob/main/assets/image-20250326135757845.png)
 
 ## 三、🚀 未来规划
 ```mermaid
