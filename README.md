@@ -97,7 +97,7 @@ graph LR
 ```
 
 ## 加入我们！👋
-📧 security@kurust.io | 🌐 www.kurust.io | 💻 GitHub:kurust-project
+📧 whoisg3m@163.com | 🌐 www.kurust.io | 💻 [GitHub:kurust-project](https://github.com/wjz-sec/Kurust/)
 
 
 
