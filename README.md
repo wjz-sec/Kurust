@@ -1,6 +1,7 @@
 # 🛡️ Kurust - 安全研究人员的智能助手
 
-![image-20250326132728523](D:\Users\g3m\Desktop\assets\image-20250326132728523.png)
+![image-20250326132728523](https://github.com/wjz-sec/Kurust/blob/main/assets/image-20250326132728523.png)
+
 
 ## 一、📋 项目概述
 
