@@ -41,11 +41,11 @@ graph TB
 - ☕ JAR包应用
 - 📁 目录型工具
 
-![image-20250326133848956](D:\Users\g3m\Desktop\assets\image-20250326133848956.png)
+![image-20250326133848956](https://github.com/wjz-sec/Kurust/blob/main/assets/image-20250326133848956.png)
 - 🔧 智能环境配置
   - ⚙️ 自动识别Java多版本（JDK8-21）
 
-  ![image-20250326133943621](D:\Users\g3m\Desktop\assets\image-20250326133943621.png)
+  ![image-20250326133943621](https://github.com/wjz-sec/Kurust/blob/main/assets/image-20250326133943621.png)
 
 ### 2. 🤖 AI辅助安全分析
 
@@ -70,7 +70,7 @@ graph TB
   - 🚨 多级告警系统
   - 📍 操作溯源追踪
 
-![](D:\Users\g3m\Desktop\assets\image-20250326133712331.png)
+![image-20250326133712331.png](https://github.com/wjz-sec/Kurust/blob/main/assets/image-20250326133712331.png)
 
 ### 4.  📂 配置管理
 
@@ -83,7 +83,7 @@ graph TB
 
 ​	使用api时，在api_type="deepseek"即可，如果使用本地ollama模型则改为 api_type="ollama"即可
 
-![image-20250326135757845](D:\Users\g3m\Desktop\assets\image-20250326135757845.png)
+![image-20250326135757845](https://github.com/wjz-sec/Kurust/blob/main/assets/image-20250326135200306.png)
 
 ## 三、🚀 未来规划
 ```mermaid
