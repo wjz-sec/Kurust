@@ -1,0 +1,14 @@
+{
+  "environments": [
+    {
+      "version": "1.8",
+      "path": "java_environments\\jdk1.8.0_221\\bin",
+      "is_default": true
+    },
+    {
+      "version": "21",
+      "path": "java_environments\\jdk21\\bin",
+      "is_default": false
+    }
+  ]
+}

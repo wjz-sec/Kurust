@@ -1,0 +1,24 @@
+{
+  "tools": [
+    {
+      "id": "1",
+      "name": "Tool 1",
+      "category": "渗透测试",
+      "type": "cli",
+      "description": "Tool 1 description",
+      "path": "c:\\tool1",
+      "java_version": null,
+      "config": null
+    },
+    {
+      "id": "2",
+      "name": "Tool 2",
+      "category": "漏洞扫描",
+      "type": "gui",
+      "description": "Tool 2 description",
+      "path": "c:\\tool2",
+      "java_version": "1.8",
+      "config": null
+    }
+  ]
+}
