@@ -1,3 +1,10 @@
+<div align="center">
+!Kurust Logo
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Tauri](https://img.shields.io/badge/Tauri-2.0.0-blue.svg)
+![Vue](https://img.shields.io/badge/Vue-3.0.0-green.svg)
+![Rust](https://img.shields.io/badge/Rust-1.75.0-orange.svg)
+</div>
 # 🛡️ Kurust - 安全研究人员的智能助手
 
 ![image-20250326132728523](https://github.com/wjz-sec/Kurust/blob/main/assets/image-20250326132728523.png)
